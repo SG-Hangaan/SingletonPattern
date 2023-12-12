@@ -15,3 +15,8 @@ This approach aims to maintain an organized queuing process for individuals visi
 </p>
 
 # UML Class Diagram
+<p align="center">
+  <img src="https://github.com/SG-Hangaan/SingletonPattern/assets/127215110/3aedcc6e-5aa7-4fa7-81c2-5b6888e8186c"/>
+</p>
+
+
